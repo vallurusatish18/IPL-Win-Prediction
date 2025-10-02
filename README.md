@@ -3,7 +3,7 @@
 
 A Python / Jupyter-based project to predict the winner of IPL matches using historical match data.
 
-<img src = "">
+<img src = "https://github.com/vallurusatish18/IPL-Win-Prediction/blob/main/UI.png">
 
 ---
 
@@ -116,3 +116,4 @@ Feel free to reach out if you have suggestions or want to collaborate!
 If you like, I can generate a version with proper dependencies, badge, auto-install script, or a markdown with more detail. Which version do you prefer?
 ::contentReference[oaicite:0]{index=0}
 ```
+
